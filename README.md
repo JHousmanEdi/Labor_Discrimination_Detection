@@ -20,6 +20,6 @@
 
 
 # Acknowledgements
-### Exploration in Conjunction with Professor Patrick Button
+### Exploration in Conjunction with Professor Patrick Button Ph.D. and Ph.D. Student Brigham Walker
 - Data Taken from Labor Discrimination Econometrics Experiment, acquired via an audit study.
 
