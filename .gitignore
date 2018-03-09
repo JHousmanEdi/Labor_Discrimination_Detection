@@ -111,3 +111,11 @@ old_html/
 Relevant_Files/
 untitle
 *.csv
+CSVS/
+Glove/
+HTML/
+Job-Ads/
+Job-Text/
+*.png
+*.txt
+*.zip
